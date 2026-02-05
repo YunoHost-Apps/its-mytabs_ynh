@@ -22,7 +22,7 @@ ynh_setup_source --dest_dir="$install_dir" --full_replace
 ynh_script_progression "Upgrading app..."
 
 pushd $install_dir
-	ynh_hide_warnings npm install deno
+	ynh_hide_warnings npm install -g deno
 	ynh_hide_warnings ynh_exec_as_app deno task setup
 popd
 

@@ -10,7 +10,7 @@ ynh_script_progression "Restoring the app main directory..."
 ynh_restore "$install_dir"
 
 pushd $install_dir
-	ynh_hide_warnings npm install deno
+	ynh_hide_warnings npm install -g deno
 popd
 
 #=================================================
