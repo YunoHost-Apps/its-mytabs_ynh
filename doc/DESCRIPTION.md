@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+Open source, web based, self hostable guitar/bass tab viewer and player, similar to Songsterr.
