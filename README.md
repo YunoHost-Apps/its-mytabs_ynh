@@ -20,7 +20,7 @@ Guitar/bass tab (tablature) viewer and player, similar to Songsterr.
 
 
 ## Screenshots
-![Screenshot of It's MyTabs](./doc/screenshots/example.jpg)
+![Screenshot of It's MyTabs](./doc/screenshots/its-mytabs.png)
 
 ## 📦 Developer info
 
