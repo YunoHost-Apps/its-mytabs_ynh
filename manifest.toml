@@ -50,7 +50,7 @@ ram.runtime = "50M"
 
     [resources.sources.main]
     url = "https://github.com/louislam/its-mytabs/archive/refs/tags/1.4.0.tar.gz"
-    sha256 = ""
+    sha256 = "20388f30b68410c7b38b7054cacb195e6685f1f18a8005795bc5916a2a201994"
 
     autoupdate.strategy = "latest_github_tag"
 
