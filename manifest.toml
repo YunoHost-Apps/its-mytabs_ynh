@@ -65,3 +65,6 @@ ram.runtime = "50M"
 
     [resources.ports]
     main.default = 47777
+
+    [resources.nodejs]
+    version = "22"
