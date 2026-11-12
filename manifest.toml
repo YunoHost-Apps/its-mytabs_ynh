@@ -6,7 +6,7 @@ id = "its-mytabs"
 name = "It's MyTabs"
 description.en = "Guitar/bass tab (tablature) viewer and player, similar to Songsterr. "
 
-version = "1.7.0~ynh1"
+version = "1.8.0~ynh1"
 
 maintainers = ["Thovi98"]
 
@@ -49,8 +49,8 @@ ram.runtime = "300M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/louislam/its-mytabs/archive/refs/tags/1.7.0.tar.gz"
-    sha256 = "31e608cc7a6fe5e2a704395a0f79ea663c12f367d44e288a25c96ab46bc40bdf"
+    url = "https://github.com/louislam/its-mytabs/archive/refs/tags/1.8.0.tar.gz"
+    sha256 = "950fc9cc4027fc812f7f600f1226f1b2d36bb78b8f03e91f9dbd88ea4df71117"
 
     autoupdate.strategy = "latest_github_tag"
 
